@@ -1,0 +1,22 @@
+Circuit: * C:\Users\drobi\Desktop\fs\Lab1\Part1\testcontroller2.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Mar 24 20:44:42 2024
+Total elapsed time: 194.100 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 207226
+traniter = 207203
+tranpoints = 100596
+accept = 100487
+rejected = 109
+matrix size = 1416
+fillins = 62
+solver = Normal
+Thread vector: 1220.5/593.1[4] 319.6/65.2[4] 90.6/25.2[4] 27.9/19.5[3]  2592/500
+Matrix Compiler1: 210.37 KB object code size  269.7/140.3/[79.8]
+Matrix Compiler2: 172.77 KB object code size  135.4/113.7/[33.8]
+

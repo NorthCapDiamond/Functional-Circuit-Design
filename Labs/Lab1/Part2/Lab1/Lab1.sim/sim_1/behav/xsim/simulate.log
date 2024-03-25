@@ -1,0 +1,35 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+a1 = 0; a2 = 0; b1 = 0; b2 = $b; c = 0; answer = 00
+a1 = 1; a2 = 0; b1 = 0; b2 = $b; c = 0; answer = 00
+a1 = 0; a2 = 1; b1 = 0; b2 = $b; c = 0; answer = 00
+a1 = 1; a2 = 1; b1 = 0; b2 = $b; c = 0; answer = 00
+a1 = 0; a2 = 0; b1 = 1; b2 = $b; c = 0; answer = 00
+a1 = 1; a2 = 0; b1 = 1; b2 = $b; c = 0; answer = 00
+a1 = 0; a2 = 1; b1 = 1; b2 = $b; c = 0; answer = 00
+a1 = 1; a2 = 1; b1 = 1; b2 = $b; c = 0; answer = 01
+a1 = 0; a2 = 0; b1 = 0; b2 = $b; c = 1; answer = 00
+a1 = 1; a2 = 0; b1 = 0; b2 = $b; c = 1; answer = 00
+a1 = 0; a2 = 1; b1 = 0; b2 = $b; c = 1; answer = 00
+a1 = 1; a2 = 1; b1 = 0; b2 = $b; c = 1; answer = 01
+a1 = 0; a2 = 0; b1 = 1; b2 = $b; c = 1; answer = 00
+a1 = 1; a2 = 0; b1 = 1; b2 = $b; c = 1; answer = 01
+a1 = 0; a2 = 1; b1 = 1; b2 = $b; c = 1; answer = 01
+a1 = 1; a2 = 1; b1 = 1; b2 = $b; c = 1; answer = 01
+a1 = 0; a2 = 0; b1 = 0; b2 = $b; c = 0; answer = 10
+a1 = 1; a2 = 0; b1 = 0; b2 = $b; c = 0; answer = 10
+a1 = 0; a2 = 1; b1 = 0; b2 = $b; c = 0; answer = 10
+a1 = 1; a2 = 1; b1 = 0; b2 = $b; c = 0; answer = 11
+a1 = 0; a2 = 0; b1 = 1; b2 = $b; c = 0; answer = 10
+a1 = 1; a2 = 0; b1 = 1; b2 = $b; c = 0; answer = 11
+a1 = 0; a2 = 1; b1 = 1; b2 = $b; c = 0; answer = 11
+a1 = 1; a2 = 1; b1 = 1; b2 = $b; c = 0; answer = 11
+a1 = 0; a2 = 0; b1 = 0; b2 = $b; c = 1; answer = 10
+a1 = 1; a2 = 0; b1 = 0; b2 = $b; c = 1; answer = 11
+a1 = 0; a2 = 1; b1 = 0; b2 = $b; c = 1; answer = 11
+a1 = 1; a2 = 1; b1 = 0; b2 = $b; c = 1; answer = 11
+a1 = 0; a2 = 0; b1 = 1; b2 = $b; c = 1; answer = 11
+a1 = 1; a2 = 0; b1 = 1; b2 = $b; c = 1; answer = 11
+a1 = 0; a2 = 1; b1 = 1; b2 = $b; c = 1; answer = 11
+a1 = 1; a2 = 1; b1 = 1; b2 = $b; c = 1; answer = 11
+$stop called at time : 330 ns : File "C:/Users/drobi/Desktop/fs/Lab1/Part2/Lab1/Lab1.srcs/sim_1/new/majorcontroller_tb.v" Line 55

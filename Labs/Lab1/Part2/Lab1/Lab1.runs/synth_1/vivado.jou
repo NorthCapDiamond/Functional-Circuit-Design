@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Mar 25 13:56:38 2024
+# Process ID: 8892
+# Current directory: C:/Users/drobi/Desktop/fs/Lab1/Part2/Lab1/Lab1.runs/synth_1
+# Command line: vivado.exe -log majorcontroller.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source majorcontroller.tcl
+# Log file: C:/Users/drobi/Desktop/fs/Lab1/Part2/Lab1/Lab1.runs/synth_1/majorcontroller.vds
+# Journal file: C:/Users/drobi/Desktop/fs/Lab1/Part2/Lab1/Lab1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source majorcontroller.tcl -notrace
