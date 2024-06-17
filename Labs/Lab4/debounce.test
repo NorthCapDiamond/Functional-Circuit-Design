@@ -1,0 +1,5 @@
+VCD info: dumpfile debounce.vcd opened for output.
+ANSWER : 0
+ANSWER : 1
+ANSWER : 0
+debounce_tb.v:37: $finish called at 4000 (1s)

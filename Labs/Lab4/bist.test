@@ -1,0 +1,37 @@
+VCD info: dumpfile bist.vcd opened for output.
+usermode check
+Pressed RST :     0
+Pressed RST :     0
+Pressed START :     0
+Answer is     3
+
+test check
+Pressed RST :     0
+Unressed RST :     0
+Pressed TEST :    89
+Unpressed TEST :    89
+Pressed TEST :     0
+Unpressed TEST :     0
+Pressed TEST :    89
+Unpressed TEST :    89
+Pressed TEST :     0
+Unpressed TEST :     0
+Pressed TEST :    89
+Unpressed TEST :    89
+Answer is    89
+
+test to start check
+Pressed RST :    89
+Unpressed RST :    89
+Pressed TEST :     0
+Pressed START :     0
+Unpressed START :     0
+Unpressed TEST :     0
+Pressed TEST :    89
+Unpressed TEST :    89
+Pressed START :    89
+Unpressed START :    89
+Pressed TEST :     0
+Unpressed TEST :     0
+Answer is     0
+bist_tb.v:27: $finish called at 121000200000 (1ps)
